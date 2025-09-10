@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Window:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Window_jar</output-path>
+    <root id="archive" name="Window.jar">
+      <element id="module-output" name="Window" />
+    </root>
+  </artifact>
+</component>
